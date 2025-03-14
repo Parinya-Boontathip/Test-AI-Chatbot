@@ -1,5 +1,0 @@
-matplotlib 
-seaborn 
-scikit-learn
-sys
-python-dotenv
